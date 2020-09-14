@@ -1,2 +1,0 @@
-# telegramBot
-Create a bot
